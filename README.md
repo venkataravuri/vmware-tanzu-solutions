@@ -30,10 +30,17 @@ As a prototype, it demonstrates how to build real-world end-to-end modern applic
 
 You can standup working application within :alarm_clock: 30 minutes!
 
-## Conceptual Architecture
+## Conceptual View
 
-## Technology Stack
+## Technical Architecture
+
+### Technologies Used
 
 ## Getting Started
+
+### Pre requisite
+
+### Installation Instructions
+
 
 ## Further Reading
