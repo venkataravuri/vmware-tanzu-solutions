@@ -24,4 +24,14 @@ A solution blueprint or reference architecture model to implement a hybrid/multi
     <img src="https://cdn.dribbble.com/users/2697985/screenshots/13966152/media/9b9be2f2c9a72f3ea8e6d30036586b93.jpg?compress=0&resize=500x375" alt="Food Delivery App UI/UX">
     <!--<img src="https://cdn.dribbble.com/users/4189231/screenshots/14435902/media/fb5ff09015ef9096fdfbb1519c21406b.png?compress=1&resize=500x375" alt="Food Delivery App UI/UX">-->
 </p>
-As a prototype,it demonstrates how to build real-world end-to-end applications using VMware technology stack.
+As a prototype, it demonstrates how to build real-world end-to-end modern applications using VMware technology stack that can be deployed onto both Datacenter & public cloud infrastructure.
+
+You can standup working application within :alarm_clock: 30 minutes!
+
+## Conceptual Architecture
+
+## Technology Stack
+
+## Getting Started
+
+## Further Reading
