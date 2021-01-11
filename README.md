@@ -30,7 +30,10 @@ As a prototype, it demonstrates how to build real-world end-to-end modern applic
 
 You can standup working application within :alarm_clock: 30 minutes!
 
-## Conceptual View
+## Conceptual Architecture
+<p align="center">
+    <img src="conceptual-architecture-diagram.png" alt="Conceptual Architecture">
+</p>
 
 ## Technical Architecture
 
