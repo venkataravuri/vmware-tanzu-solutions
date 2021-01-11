@@ -32,12 +32,21 @@ You can standup working application within :alarm_clock: 30 minutes!
 
 ## Conceptual Architecture
 <p align="center">
-    <img src="conceptual-architecture-diagram.png" alt="Conceptual Architecture">
+    <img src="docs/images/conceptual-architecture-diagram.png" alt="Conceptual Architecture">
 </p>
 
 ## Technical Architecture
 
-### Technologies Used
+### Technology Stack
+<p align="center">
+    <img src="docs/images/tech-stack.png" alt="Technology Stack">
+</p>
+
+#### Compute
+#### Storage & Database
+#### Messaging
+#### Observability
+
 
 ## Getting Started
 
