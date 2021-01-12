@@ -31,15 +31,15 @@ _This sample application demonstrates how to build, run & manage a cloud-native 
 
 >Note: This is a prototype, in particular demonstrates building real-world modern applications end-to-end using VMware technology stack. Kindly treat it as a reference model to build real-world applications.
 
-You can standup working application within :alarm_clock: 30 minutes!
+:rocket: You can standup working application within :alarm_clock: 30 minutes!
 
-## Conceptual Architecture
+## :european_castle: Conceptual Architecture
 This sample application includes following **functional modules/components** which are implemented as **Microservices** (or) **Serverless** functions. All these microservices are independently deployable & scalable services and are organized around business capabilities.
 <p align="center">
     <img width="800" height="600" src="docs/images/conceptual-architecture-diagram.png" alt="Conceptual Architecture">
 </p>
 
-## Technical Architecture
+## :computer: Technical Architecture
 This sample application adhers to **API-driven** & **Event-Driven** architecture principles, wherein each fuctional module realized into a Cloud-Native application either as a **Serverless Functions** (or) **Microservices**. Each module/service is independently scalable and can be deployed as **Containers** anywhere (private & public clouds) using **VMware Tanzu** (Kubernetes).
 <p align="center">
     <img width="800" height="550" src="docs/images/tech-architecture.png" alt="Technical Architecture">
