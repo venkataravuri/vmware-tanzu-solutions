@@ -1,4 +1,3 @@
-
 <p align="center">
     <a href="https://circleci.com/" alt="Builds">
         <img src="https://img.shields.io/static/v1?label=build&message=passing&color=success&style=flat&logo=jenkins" /></a>
@@ -20,26 +19,27 @@
         <img src="https://img.shields.io/twitter/follow/vmware?label=follow&style=social" /></a>
 </p>
 
-# :hamburger: :motor_scooter: Food Delivery App - using VMWare Multi-Cloud Technologies & SaaS Services
-A solution blueprint (or) reference model to implement a fictitious Food Delivery App using VMware’s hybrid & multi-cloud technologies such as Tanzu(Kubernetes) & Cloud SaaS services.
+# :hamburger:Food Delivery App:motor_scooter: - using VMWare Multi-Cloud Technologies & SaaS Services
+A _solution blueprint_ (or) _reference model_ to implement a fictitious Food Delivery App using *VMware*’s hybrid & multi-cloud technologies such as Tanzu(Kubernetes) & Cloud SaaS services.
 
-This sample application demonstrates how to build, run & manage a cloud-native modern application using VMware technology stack which is hosted on Priviate Cloud (Datacenter) and Public Clouds.
+_This sample application demonstrates how to build, run & manage a cloud-native modern application using VMware technology stack which is hosted on Priviate Cloud (Datacenter) and Public Clouds._
 <p align="center">
     <img src="https://cdn.dribbble.com/users/2697985/screenshots/13966152/media/9b9be2f2c9a72f3ea8e6d30036586b93.jpg?compress=0&resize=500x375" alt="Food Delivery App UI/UX">
     <!--<img src="https://cdn.dribbble.com/users/4189231/screenshots/14435902/media/fb5ff09015ef9096fdfbb1519c21406b.png?compress=1&resize=500x375" alt="Food Delivery App UI/UX">-->
 </p>
-_Note: This is a prototype, in particular demonstrates building real-world modern applications end-to-end using VMware technology stack. Kindly treat it as a reference model to build real-world applications._
+
+>Note: This is a prototype, in particular demonstrates building real-world modern applications end-to-end using VMware technology stack. Kindly treat it as a reference model to build real-world applications.
 
 You can standup working application within :alarm_clock: 30 minutes!
 
 ## Conceptual Architecture
-This sample application includes following functional modules/components which are implemented as Microservices (or) serverless functions. All these microservices are independently deployable & scalable services and are organized around business capabilities.
+This sample application includes following **functional modules/components** which are implemented as **Microservices** (or) **Serverless** functions. All these microservices are independently deployable & scalable services and are organized around business capabilities.
 <p align="center">
     <img width="800" height="600" src="docs/images/conceptual-architecture-diagram.png" alt="Conceptual Architecture">
 </p>
 
 ## Technical Architecture
-This sample application adhers to API-driven & Event-Driven architecture principles, wherein each fuctional module realized into a Cloud-Native application either as a Serverless Functions (or) Microservices. Each module/service is independently scalable and can be deployed anywhere (private & public clouds).
+This sample application adhers to **API-driven** & **Event-Driven** architecture principles, wherein each fuctional module realized into a Cloud-Native application either as a **Serverless Functions** (or) **Microservices**. Each module/service is independently scalable and can be deployed as **Containers** anywhere (private & public clouds) using **VMware Tanzu** (Kubernetes).
 <p align="center">
     <img width="800" height="550" src="docs/images/tech-architecture.png" alt="Technical Architecture">
 </p>
