@@ -10,6 +10,7 @@
     <a href="" alt="">
         <img src="https://img.shields.io/static/v1?label=code+quality&message=A&color=brightgreen&style=flat&logo=" /></a>
 </p>
+
 <p align="center">
     <a href="" alt="GitHub followers">
         <img src="https://img.shields.io/github/followers/venkataravuri?label=follow&style=social" /></a>
