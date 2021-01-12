@@ -21,7 +21,7 @@
 </p>
 
 # :hamburger:Food Delivery App:motor_scooter: - using VMWare Multi-Cloud Technologies & SaaS Services
-A _solution blueprint_ (or) _reference model_ to implement a fictitious Food Delivery App using *VMware*’s hybrid & multi-cloud technologies such as Tanzu(Kubernetes) & Cloud SaaS services.
+A _solution blueprint_ (or) _reference model_ to implement a **fictitious Food Delivery App** using _**VMware’s hybrid & multi-cloud technologies such as Tanzu(Kubernetes) & Cloud SaaS services**_.
 
 _This sample application demonstrates how to build, run & manage a cloud-native modern application using VMware technology stack which is hosted on Priviate Cloud (Datacenter) and Public Clouds._
 <p align="center">
